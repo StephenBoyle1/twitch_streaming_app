@@ -1,3 +1,8 @@
+To run dummy api server cd into api folder then run npm run.
+To Run Jest testing suite cd onot client folder then run npm test.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
